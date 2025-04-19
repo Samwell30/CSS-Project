@@ -149,7 +149,6 @@ h1 {
 p {
     font-size: 18px;
     line-height: 1.5;
-    color: #7C8BA1;
 }
 
 .header__email {
@@ -275,7 +274,7 @@ img {
 
 .btn__menu {
     display: none;
-    font-size: 50px;
+    font-size: 25px;
     padding: 10px 15px; /* Adjust as necessary */
     margin: 0 10px; /* Adds space on the sides */
     background-color: #fff; /* Or give it a color */
