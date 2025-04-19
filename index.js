@@ -1,7 +1,9 @@
+const modalElement = document.querySelector(".modal");
+
 function openMenu() {
-    document.body.classList += " menu--open"
-  }
-  
-  function closeMenu() {
-    document.body.classList.remove('menu--open')
-  }
+  modalElement.classList += " menu--open";
+}
+
+function closeMenu() {
+  modalElement.classList.remove("menu--open");
+}
